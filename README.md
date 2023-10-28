@@ -60,7 +60,7 @@ Goals:
 - preserve spi connections between yellow pinhead and uart chip (what a nice soldering point)
 
 
-**Do use force Luke is a very bad idea here. Use sharp precision knife/scalpel instead!**
+**Use force Luke is a very very bad idea here. Be patient and use sharp precision knife/scalpel instead!**
 
 
 1. Cut off the uart spi signals from rpi gpio pinhead (SCLK_1, MISO_1, MOSI_1 CE_1).
